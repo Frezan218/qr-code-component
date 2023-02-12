@@ -17,9 +17,9 @@ function App() {
           <h1 className="text-2xl py-4 font-bold">
             Impove your front-end skills by building projects
           </h1>
-          <text className="opacity-60 pb-4">
+          <p className="opacity-60 pb-4">
             Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-          </text>
+          </p>
         </div>
       </div>
     </div>
